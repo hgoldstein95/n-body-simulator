@@ -1,4 +1,10 @@
-# nBodySim
-An n-body simulation.
+# n-Body Simulator
 
-In order to run, install Python and vPython, and then run GravitySimulatorHS.py.
+An n-body simulator written in python and visualized with vPython.
+
+## Instructions
+
+In order to run, install Python and vPython, and then run:
+```
+python GravitySimulatorHS.py
+```
